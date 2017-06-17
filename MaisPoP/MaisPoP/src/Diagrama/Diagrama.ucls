@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="maisPopularidade.sistema.Fachada" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/Fachada.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="297" x="1157" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="maisPopularidade.sistema.Controle" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/Controle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="891" width="297" x="1157" y="860"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="maisPopularidade.sistema.Valida" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/Valida.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="187" x="1054" y="3856"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="maisPopularidade.sistema.usuario.tipoPopularidade.Usuario" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/tipoPopularidade/Usuario.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1161" width="231" x="1033" y="1791"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="maisPopularidade.sistema.usuario.tipoPopularidade.TipoPopularidade" 
+    project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/tipoPopularidade/TipoPopularidade.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="225" x="539" y="3002"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="maisPopularidade.sistema.usuario.tipoPopularidade.NormalPop" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/tipoPopularidade/NormalPop.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="225" x="503" y="1791"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="maisPopularidade.sistema.usuario.tipoPopularidade.IconePop" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/tipoPopularidade/IconePop.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="225" x="238" y="1791"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="maisPopularidade.sistema.usuario.tipoPopularidade.CelebridadePop" 
+    project="MaisPoP" file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/tipoPopularidade/CelebridadePop.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="225" x="768" y="1791"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="maisPopularidade.sistema.usuario.post.Post" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/post/Post.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="621" width="210" x="823" y="3195"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="maisPopularidade.sistema.usuario.post.Hashtag" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/post/Hashtag.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="173" x="1281" y="3856"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="maisPopularidade.sistema.usuario.post.midia.Audio" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/post/midia/Audio.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="198" x="816" y="4157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="maisPopularidade.sistema.usuario.post.midia.Imagem" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/post/midia/Imagem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="198" x="578" y="4157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="maisPopularidade.sistema.usuario.post.midia.Mensagem" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/post/midia/Mensagem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="198" x="1054" y="4157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="maisPopularidade.sistema.usuario.post.midia.Midia" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/post/midia/Midia.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="198" x="816" y="3856"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="maisPopularidade.sistema.usuario.feedNoticias.FeedNoticias" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/feedNoticias/FeedNoticias.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="208" x="804" y="3002"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="16" language="java" name="maisPopularidade.sistema.usuario.feedNoticias.OrdenadorFeed" 
+    project="MaisPoP" file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/feedNoticias/OrdenadorFeed.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="208" x="291" y="3195"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="17" language="java" name="maisPopularidade.sistema.usuario.feedNoticias.OrdenaPorData" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/feedNoticias/OrdenaPorData.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="43" y="3002"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="maisPopularidade.sistema.usuario.feedNoticias.OrdenaPorPops" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/sistema/usuario/feedNoticias/OrdenaPorPops.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="291" y="3002"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="maisPopularidade.exception.PostException" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/exception/PostException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="778" y="860"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="maisPopularidade.exception.SystemException" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/exception/SystemException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="145" x="864" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="maisPopularidade.exception.UserException" project="MaisPoP" 
+    file="/MaisPoP/MaisPoP/src/maisPopularidade/exception/UserException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="132" x="949" y="860"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="23">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="24" name="listaDeAmigos"/>      
+      <multiplicity id="25" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="27">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="28" name="valida"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="1304" y="1791"/>    
+    <bendpoint x="1304" y="3002"/>    
+    <bendpoint x="1304" y="3195"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="31" name="hashtagsErro"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="34" name="posts"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="38">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="39" name="controle"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="42">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </realization>  
+  <association id="43">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="44" name="usuariosCadastrados"/>      
+      <multiplicity id="45" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="1042" y="3002"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="47" name="posts"/>      
+      <multiplicity id="48" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="49">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="50">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="51" name="feedNoticias"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="54" name="midias"/>      
+      <multiplicity id="55" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="57" name="usuarioLogado"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="60" name="tipoPopularidade"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="63">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="64" name="ordenador"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="66">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="16"/>  
+  </realization>  
+  <association id="67">    
+    <bendpoint x="1063" y="3002"/>    
+    <bendpoint x="1063" y="3195"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="68" name="valida"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="71">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="72" name="hashtags"/>      
+      <multiplicity id="73" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

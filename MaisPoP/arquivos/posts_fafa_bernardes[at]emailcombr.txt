@@ -1,0 +1,376 @@
+Post #1 - 11/11/1840 10:44:00
+Conteudo:
+Se desejo governar? Quero jah!
+#golpeDaMairoridade
++Pop: 0
+
+
+Post #2 - 03/09/1843 10:57:00
+Conteudo:
+Te amo minha Teresa!
+#casamento
++Pop: 0
+
+
+Post #3 - 01/01/1860 00:00:01
+Conteudo:
+Viva o imperio!
+<imagem>imagens/imperioBR.jpg</imagem>
+#paz #estabilidade #monarquia
++Pop: 0
+
+
+Post #4 - 19/12/1867 14:35:00
+Conteudo:
+Calor insuportavel! Vamos para Petropolis!.
+#partiuPetropolis
++Pop: 0
+
+
+Post #5 - 09/07/1871 12:30:00
+Conteudo:
+Isabel eh feia, mas eh uma princesa!
+#amoMinhaFilha
++Pop: 0
+
+
+Post #6 - 28/09/1885 09:54:00
+Conteudo:
+Aprovada a lei dos sexagenarios!
+#rumoAbolicao #leiSaraivaCotegipe
++Pop: 0
+
+
+Post #7 - 13/05/1888 13:15:00
+Conteudo:
+Mil tronos eu tivesse, mil tronos eu daria!
+#abolicao #leiAurea
++Pop: 0
+
+
+Post #8 - 09/11/1889 22:54:00
+Conteudo:
+A monarquia tropeca, mas nao cai.
+#baileDaIlhaFiscal
++Pop: 0
+
+
+Post #9 - 15/11/1889 13:00:00
+Conteudo:
+Depois de tudo o que eu fiz pelo Brasil? :(
+#proclamacaoDaRepublica
++Pop: 0
+
+
+Post #10 - 17/11/1889 04:30:00
+Conteudo:
+Tiraram meu trono! Voces me pagam!
+#partiu #exilio
++Pop: 0
+
+
+Post #11 - 05/08/2004 03:54:00
+Conteudo:
+Me diga o que voce fez com Lindalva, diga Nazareh.
+#cadeLindalva
++Pop: 0
+
+
+Post #12 - 03/09/2004 11:30:00
+Conteudo:
+To eh varada de fome.
+#varadaDeFome #senhoraDoDestino
++Pop: 0
+
+
+Post #13 - 11/10/2004 00:00:00
+Conteudo:
+Ave Maria meu Deus.
+#senhoraDoDestino
++Pop: 0
+
+
+Post #14 - 06/12/2004 03:55:00
+Conteudo:
+Ha mais de 20 anos eu sonho em lhe dar o que voce merece.
+#surraNazareh #apanhaLadra
++Pop: 0
+
+
+Post #15 - 18/12/2004 12:15:00
+Conteudo:
+Gente eh ela, minha filha, Lindalva.
+#vivaLindalva
++Pop: 0
+
+
+Post #16 - 18/12/2004 14:35:00
+Conteudo:
+O nome dela eh Isabel, ainda nao me acostumei.
+#vivaIsabel #minhaDelicinha
++Pop: 0
+
+
+Post #17 - 14/01/2005 08:25:00
+Conteudo:
+Bom dia meus amores.
+#cafeDaManha #familiaReunida
++Pop: 0
+
+
+Post #18 - 02/03/2005 12:15:00
+Conteudo:
+Meu Sao Francisco, protejei minha filha e minha neta.
+#saoFranciso
++Pop: 0
+
+
+Post #19 - 05/06/2015 21:50:55
+Conteudo:
+Voce precisa parar de pensar na escuridao que o precede. O que passou, passou.
+#passado
++Pop: 0
+
+
+Post #20 - 06/06/2015 01:30:02
+Conteudo:
+Eu nao estou em perigo, eu sou o perigo.
+#heisenberg
++Pop: 0
+
+
+Post #21 - 23/06/2015 01:30:02
+Conteudo:
+Eu sou o cara mau.
+<imagem>imagens/bad.jpg</imagem>
+#pinkman
++Pop: 0
+
+
+Post #22 - 01/08/2015 12:00:00
+Conteudo:
+Eu nao sou preconceituosa, mais aqui esta cheio de anta nordestina.
+#anta #separa #epicwin
++Pop: 100
+
+
+Post #23 - 01/08/2015 14:18:00
+Conteudo:
+vou deixar de solidao!
+#minhaVida
++Pop: 0
+
+
+Post #24 - 01/08/2015 20:12:00
+Conteudo:
+O Encontro de amanha estara otimo. Vamos falar sobre os problemas do preconceito na escola.
+<imagem>imagens/encontro_vinheta.jpg</imagem>
+<imagem>imagens/encontro_preview.jpg</imagem>
+#encontro #SemPreconceito
++Pop: 0
+
+
+Post #25 - 01/08/2015 21:35:00
+Conteudo:
+Esse frio esta mim deixando doida.
+#alucicrazy #CGDaDepressao
++Pop: 10
+
+
+Post #26 - 02/08/2015 08:09:00
+Conteudo:
+nao aguento mais esses vizinhos escutando Calypso, eu quero dormir!!!
+#sono #minhaVida
++Pop: 0
+
+
+Post #27 - 02/08/2015 09:30:00
+Conteudo:
+Hoje o sol me acordou. Foi muito cansativo sair da cama pois ainda estava com muito sono. Gostaria ter mais tempo para dormir. Ainda bem que tinha tapioca e cuscuz no cafe da manha para dar energia.
+#cafe #acorda
++Pop: 0
+
+
+Post #28 - 03/08/2015 08:21:00
+Conteudo:
+Nao sei porque tanto recalque, o que eh bonito eh pra se mostrar.
+<audio>musicas/poderosas.mp3</audio>
+#soulinda #naza
++Pop: 0
+
+
+Post #29 - 03/08/2015 16:00:00
+Conteudo:
+adeus ferias!!! Ate nunca mais :(
+#cordarCedo #UFCG #minhaVida
++Pop: 0
+
+
+Post #30 - 04/08/2015 10:01:00
+Conteudo:
+Estou muito animada para as voltas as aulas
+#Sqn #UFCG #acordarCedo
++Pop: 0
+
+
+Post #31 - 06/08/2015 22:00:00
+Conteudo:
+de volta a rotina!
+#acordarCedo
++Pop: 0
+
+
+Post #32 - 07/08/2015 16:10:00
+Conteudo:
+Tem gente que se acha!
+#SouMaisEu
++Pop: 0
+
+
+Post #33 - 09/08/2015 23:16:00
+Conteudo:
+queria ter dinheiro pra comprar uma coxinha na cantinha, mas nao tenho!!!
+#minhaVida #EstouComFome
++Pop: 0
+
+
+Post #34 - 10/08/2015 22:00:01
+Conteudo:
+Ou voce foge das coisas ou as enfrenta. Toda a questao eh aceitar, realmente, o que voce eh.
+#souQuemSou
++Pop: 0
+
+
+Post #35 - 11/08/2015 02:40:21
+Conteudo:
+Qual e a vantagem de ser um fora da lei quando se tem responsabilidades?
+#foraDaLei #souQuemSou
++Pop: 0
+
+
+Post #36 - 11/08/2015 02:40:21
+Conteudo:
+Cade a animacao dessa rede? sou mais eu!
+#naza
++Pop: 0
+
+
+Post #37 - 11/08/2015 02:40:21
+Conteudo:
+
+#soulinda #festa #naza
++Pop: 0
+
+
+Post #38 - 27/08/2015 09:30:00
+Conteudo:
+Odeio andar de elevador.
+#amoescadas
++Pop: 0
+
+
+Post #39 - 27/08/2015 10:30:00
+Conteudo:
+Very happy with my new friends.
+#divas
++Pop: 0
+
+
+Post #40 - 27/08/2015 10:40:00
+Conteudo:
+Download my new single I'm Cantora for free.
+<audio>musicas/im_cantora.mp3</audio>
++Pop: 0
+
+
+Post #41 - 27/08/2015 11:04:00
+Conteudo:
+Mamae tambem esta no snap! Podem me seguir la: DILMABOLADA.Brasil, patria conectada.
+#DivaDoMaisPlus #rainhaDaNacao
++Pop: 0
+
+
+Post #42 - 27/08/2015 11:19:00
+Conteudo:
+Nao aguento pessoas falsianes.
+#falsianeemtodolugar
++Pop: 0
+
+
+Post #43 - 01/09/2015 16:45:21
+Conteudo:
+A unica coisa que posso fazer e esperar. So isso. Essa eh a unica opcao boa. Esperar, aguardar a minha hora, e esperar.
+#esperar
++Pop: 0
+
+
+Post #44 - 01/09/2015 20:34:43
+Conteudo:
+Nunca cometa duas vezes o mesmo erro
++Pop: 0
+
+
+Post #45 - 01/09/2015 22:05:20
+Conteudo:
+Alguem tem que proteger essa familia do homem que protege essa familia.
+#preocupada
++Pop: 0
+
+
+Post #46 - 30/09/2015 12:30:21
+Conteudo:
+Seu produto eh um refrigerante sabor cola, generico e mal feito. O meu eh Coca-Cola. Quer mesmo viver num mundo sem Coca-Cola?
+#cristal #Omelhor
++Pop: 0
+
+
+Post #47 - 15/10/2015 18:05:00
+Conteudo:
+Boa noite, pessoal
++Pop: 0
+
+
+Post #48 - 15/10/2015 18:15:00
+Conteudo:
+A noite cai e com ela vem a solidao
+#sadness
++Pop: 0
+
+
+Post #49 - 16/10/2015 12:35:00
+Conteudo:
+Espero viver muitos anos para ver o espetaculo da neve junto com a familia
+<imagem>imagens/boneco_neve.jpg</imagem>
+<audio>audio/vento.mp3</audio>
+#vida
++Pop: 0
+
+
+Post #50 - 16/10/2015 20:20:00
+Conteudo:
+Capa do meu novo album:
+<imagem>imagens/paper_wedding.jpg</imagem>
+#PaperWedding
++Pop: 0
+
+
+Post #51 - 18/10/2015 18:15:00
+Conteudo:
+Preview do meu novo single:
+<audio>audio/in_the_hills.mp3</audio>
+#PaperWedding #InTheHills
++Pop: 0
+
+
+Post #52 - 10/11/2015 08:30:12
+Conteudo:
+Assistindo! :D
+#encontro
++Pop: 0
+
+
+Post #53 - 16/11/2015 09:35:00
+Conteudo:
+Estava brincando com a minha prima e quebrei o forno da minha mae
+#frita #encrencada
++Pop: 0
